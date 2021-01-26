@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2189ebf8-46c9-47fe-b093-1422aa14eeaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nalAjMtoy4E3YfRY8bCbUh0LLl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2189ebf8-46c9-47fe-b093-1422aa14eeaa" name="Default Changelist" comment="" />
+      <created>1611635941095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611635941095</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="196" key="#Plugins" timestamp="1611637205635">
+      <screen x="0" y="25" width="1792" height="1015" />
+    </state>
+    <state x="496" y="196" key="#Plugins/0.25.1792.1015@0.25.1792.1015" timestamp="1611637205635" />
+    <state x="617" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1611637039788">
+      <screen x="0" y="25" width="1792" height="1015" />
+    </state>
+    <state x="617" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.25.1792.1015@0.25.1792.1015" timestamp="1611637039788" />
+    <state x="551" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1611682162754">
+      <screen x="0" y="25" width="1792" height="1013" />
+    </state>
+    <state x="551" y="362" key="com.intellij.ide.util.TipDialog/0.25.1792.1013@0.25.1792.1013" timestamp="1611682162754" />
+    <state x="551" y="363" key="com.intellij.ide.util.TipDialog/0.25.1792.1015@0.25.1792.1015" timestamp="1611637216484" />
+    <state x="561" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1611637159805">
+      <screen x="0" y="25" width="1792" height="1015" />
+    </state>
+    <state x="561" y="259" width="670" height="676" key="search.everywhere.popup/0.25.1792.1015@0.25.1792.1015" timestamp="1611637159805" />
+  </component>
+</project>
